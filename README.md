@@ -1,7 +1,10 @@
 
 Name: Gayatri Vikas Kathar
+
 Domain: Python Programming
+
 Duration: August to September 2024
+
 Mentor: Neela Santhosh Kumar
 
 Overview Of the Project
